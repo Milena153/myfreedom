@@ -1,4 +1,4 @@
-//задания 1
+// задания 1
 
 // let obj = {};
 // obj.name = 'john';
@@ -6,7 +6,7 @@
 // obj.name = 'pete'
 // delete obj.name
 
-//задание 2
+// задание 2
 
 //   function isEmpty(object){
 //     let result;
@@ -25,7 +25,7 @@
 //     name: "misha"
 //   }))
 
-//задание 3
+// задание 3
 
 // let salaries = {John: 100, Ann:160, Pete: 130 }
 // let sum = 0;
@@ -36,16 +36,6 @@
 
 // задание 4
 
-// 1 ВАРИАНТ
-
-// let menu = {
-//     width: 200,
-//     height: 300,
-//     title: "My menu"
-//   };
-//     console.log( menu.width * 2, menu.height * 2);
-
-//2 ВАРИАНТ
 // let menu = {
 //     width: 200,
 //     height: 300,
