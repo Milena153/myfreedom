@@ -16,6 +16,6 @@ if (container) {
 
 //задание 3
 const parentElement = document.getElementById('parent');
-if (parentElement) {
+if (parentElement) {    
     console.log(descendants.length);
 }
