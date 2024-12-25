@@ -21,11 +21,11 @@
 // greet('alina', goodbye)
 
 //задание 3
-// function doubleNumber(number,calback){
+// function logDoubleoubleNumber(number,calback){
 //     const num = number *2;
 //     calback(num);
 // }
-// function doubleNumberr(doubleNumber){
-//     console.log(doubleNumber);
+// function doubleNumberr(logDoubleoubleNumber){
+//     console.log(logDoubleoubleNumber);
 // };
 // doubleNumber(2,doubleNumberr)
